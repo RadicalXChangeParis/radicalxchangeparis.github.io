@@ -21,9 +21,14 @@ Nous organisons les groupes suivants:
 
 Si vous souhaitez participer à l'un de ses groupes ou en animer un nouveau, rejoignez-nous.
 
-![Twitter](/public/icons8-twitter-100.png)
-![Discord](/public/icons8-discord-100.png)
-<sup><sub>Icons by [icons8.com]</sub></sup>
+<table>
+    <tr>
+    <td><img src="/public/images/icons8-twitter-100.png" display="block" margin-left="auto" margin-right="auto"></td>
+    <td><img src="/public/images/icons8-discord-100.png"></td>
+    </tr>
+    <tr><td><sup><sub>Icons by icons8.com</sub></sup></td></tr>
+</table>
+
 ----
 
 Si l'économie libérale est la source de nombreuses avancées humaines depuis la révolution industrielle, nous questionnons les 
