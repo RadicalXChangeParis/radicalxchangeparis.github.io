@@ -1,0 +1,24 @@
+.logo-table {
+    max-height: 50px;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+table.logo-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+td.logo-table image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.logo-table table,
+.logo-table td,
+.logo-table th {
+  border: none !important;
+  background-color: transparent;
+}
