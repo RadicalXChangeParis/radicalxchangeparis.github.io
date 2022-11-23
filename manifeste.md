@@ -3,19 +3,21 @@ layout: page
 title: Manifeste
 ---
 
-[RadicalXChange](https://www.radicalxchange.org/){:target="_blank"} est un mouvement libéral pour la justice sociale et économique initié par [Glen Weyl](https://en.wikipedia.org/wiki/Glen_Weyl){:target="_blank"} en 2018 suite à la parution du livre *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*[^1].
+[RadicalXChange](https://www.radicalxchange.org/){:target="_blank"} est un mouvement libéral pour la justice sociale initié par [Glen Weyl](https://en.wikipedia.org/wiki/Glen_Weyl){:target="_blank"} en 2018 suite à la parution du livre *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*[^1].
 
-La France et l'Europe sont un terreau idéal d'innovation politique. D'Adam Smith à Thomas Piketty, notre continent a fait émerger nombreuses des idées, principes et institutions fondamentales à nos sociétés modernes. Humainement "vivre ensemble", nos richesses économiques et culturelles sont mélées de la scène internationale à la vivacité de nos identités régionales et personnelles.
+La France et l'Europe sont un terreau naturel d'innovation politique. D'Adam Smith à Thomas Piketty, notre continent a fait émerger nombreuses des idées et principes soutenant les institutions fondamentales à nos sociétés modernes. 
 
-Et pourtant, la polarisation politique, les inégalités économiques et de représentation politique, l'urgence climatique demandent à ce que de nouvelles idées sont créées.
+Humainement, notre "vivre ensemble", nos richesses économiques et culturelles sont mélées de la scène internationale à la vivacité de nos identités régionales et personnelles.
 
-RadicalXChange est engagé pour l'avancement du pluralisme, des égalités et de la démocratie par le développement d'idées qui repensent les questions fondamentales de nos sociétés pour répondre concrètement à ces défis.
+Et pourtant, la polarisation politique, les inégalités économiques, les défauts de notre représentation politique et l'urgence climatique demandent à ce que de nouvelles idées soient créées et mises en places.
+
+RadicalXChange est engagé pour l'avancement du pluralisme, des égalités et de la démocratie par le développement d'idées, d'outils et d'expérimentations concrètes qui repensent les questions fondamentales de nos sociétés pour répondre aux défis d'aujourd'hui.
 
 RadicalXChange développe des approches radicalement modernes sur les sujets de la propriété privée, du bien commun, du vote démocratique, du financement participatif, des identités sociales, des monnaies communautaires, de la propriété des données personnelles et de leurs confidentialité.
 
-L'antenne française accueille les personnes de tous les horizons désireux d'apprendre, de partager et de construire autour de ces sujets et de valeurs.
+L'antenne française accueille les personnes de tous les horizons désireux d'apprendre, de partager et de construire autour de ces sujets et de nos valeurs.
 
-L'antenne française est organisée autour de thématiques portées par ses membres. Libre à vous de nous rejoindre sur l'un de ces sujets ou d'en prendre un nouveau.
+L'antenne française est organisée autour de thématiques portées par ses membres. Libre à vous de nous rejoindre sur l'un de ces sujets ou d'en animer un nouveau.
 
 - Travail: Vers de nouvelles organisations collectives.
 - Economie sociale et solidaire et Refi. Comment faire fructifier les démarches d'ESS grace au Web3?
