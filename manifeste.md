@@ -3,6 +3,8 @@ layout: page
 title: Manifeste
 ---
 
+Bienvenue sur le site de l'association RadicalXChange France.
+
 [RadicalXChange](https://www.radicalxchange.org/){:target="_blank"} est un mouvement libéral pour la justice sociale initié par [Glen Weyl](https://en.wikipedia.org/wiki/Glen_Weyl){:target="_blank"} en 2018 suite à la parution du livre *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*[^1].
 
 La France et l'Europe sont un terreau naturel d'innovation politique. D'Adam Smith à Thomas Piketty, notre continent a fait émerger nombreuses des idées et principes soutenant les institutions fondamentales à nos sociétés modernes. 
@@ -22,14 +24,14 @@ L'antenne française est organisée autour de thématiques portées par ses memb
 - Travail: Vers de nouvelles organisations collectives.
 - Economie sociale et solidaire et Refi. Comment faire fructifier les démarches d'ESS grace au Web3?
 
-18/11/2022
+Dernière mise à jour le 23/11/2022
 
 <div class="logo-table">
 <table>
     <tr>
-    <td><img src="/public/images/twitter.svg"></td>
-    <td><img src="/public/images/discord.svg"></td>
-    <td><img src="/public/images/mail.png"></td>
+    <td><a href="https://twitter.com/RadxChangeParis" target="_blank"><img src="/public/images/twitter.svg"></a></td>
+    <td><a href="https://discord.gg/cNyeSArW" target="_blank"><img src="/public/images/discord.svg"></td>
+    <td><a href="mailto:rxcfrance@gmail.com" target="_blank"><img src="/public/images/mail.png"></td>
     </tr>
 </table>
 </div>
