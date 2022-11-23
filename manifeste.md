@@ -30,8 +30,8 @@ Dernière mise à jour le 23/11/2022
 <table>
     <tr>
     <td><a href="https://twitter.com/RadxChangeParis" target="_blank"><img src="/public/images/twitter.svg"></a></td>
-    <td><a href="https://discord.gg/cNyeSArW" target="_blank"><img src="/public/images/discord.svg"></td>
-    <td><a href="mailto:rxcfrance@gmail.com" target="_blank"><img src="/public/images/mail.png"></td>
+    <td><a href="https://discord.gg/cNyeSArW" target="_blank"><img src="/public/images/discord.svg"></a></td>
+    <td><a href="mailto:rxcfrance@gmail.com" target="_blank"><img src="/public/images/mail.png"></a></td>
     </tr>
 </table>
 </div>
