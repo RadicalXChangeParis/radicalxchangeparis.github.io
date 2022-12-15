@@ -7,24 +7,24 @@ Bienvenue sur le site de l'association RadicalXChange France.
 
 [RadicalXChange](https://www.radicalxchange.org/){:target="_blank"} est un mouvement libéral pour la justice sociale initié par [Glen Weyl](https://en.wikipedia.org/wiki/Glen_Weyl){:target="_blank"} en 2018 suite à la parution du livre *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*[^1].
 
-La France et l'Europe sont un terreau naturel d'innovation politique. D'Adam Smith à Thomas Piketty, notre continent a fait émerger nombreuses des idées et principes soutenant les institutions fondamentales à nos sociétés modernes. 
+La France et l'Europe sont un terreau naturel d'innovation politique. D'Adam Smith à Thomas Piketty, notre continent a fait naître nombre des idées et principes fondamentales soutenant les institutions de nos sociétés contemporaines. 
 
-Humainement, notre "vivre ensemble", nos richesses économiques et culturelles sont mélées de la scène internationale à la vivacité de nos identités régionales et personnelles.
+Humainement, notre "vivre ensemble", notre richesse économique et culturelle sont mélés de la scène internationale à la vivacité de nos identités régionales et personnelles.
 
-Et pourtant, la polarisation politique, les inégalités économiques, les défauts de notre représentation politique et l'urgence climatique demandent à ce que de nouvelles idées soient créées et mises en places.
+Et pourtant, la polarisation politique, les inégalités économiques, les défauts de notre représentation politique et l'urgence climatique éxige la création et l'adoption de nouvelles idées.
 
-RadicalXChange est engagé pour l'avancement du pluralisme, des égalités et de la démocratie par le développement d'idées, d'outils et d'expérimentations concrètes qui repensent les questions fondamentales de nos sociétés pour répondre aux défis d'aujourd'hui.
+RadicalXChange est engagé pour l'avancement du pluralisme, des égalités et de la démocratie par le développement d'idées, d'outils et d'expérimentations concrètes qui repensent les mécanismes fondamentaux de nos sociétés pour répondre aux défis d'aujourd'hui.
 
-RadicalXChange développe des approches radicalement modernes sur les sujets de la propriété privée, du bien commun, du vote démocratique, du financement participatif, des identités sociales, des monnaies communautaires, de la propriété des données personnelles et de leurs confidentialité.
+La propriété privée, le bien commun, le vote démocratique, le financement participatif, la représentaton politique, les monnaies communautaires, la propriété des données personnelles la confidentialité sont au coeur de nos démarches.
 
 L'antenne française accueille les personnes de tous les horizons désireux d'apprendre, de partager et de construire autour de ces sujets et de nos valeurs.
 
-L'antenne française est organisée autour de thématiques portées par ses membres. Libre à vous de nous rejoindre sur l'un de ces sujets ou d'en animer un nouveau.
+L'antenne française est organisée autour de thématiques portées par ses membres. Libre à vous de nous rejoindre pour prendre part à l'un de ces sujets ou d'en animer un nouveau.
 
 - Travail: Vers de nouvelles organisations collectives.
 - Economie sociale et solidaire et Refi. Comment faire fructifier les démarches d'ESS grace au Web3?
 
-Dernière mise à jour le 23/11/2022
+Dernière mise à jour le 15/12/2022
 
 <div class="logo-table">
 <table>
