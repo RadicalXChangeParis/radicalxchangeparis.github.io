@@ -3,7 +3,7 @@ layout: post
 title:  "Unesco Global conference on internet for Trust - Paris Feb 21-23"
 ---
 
-On February 21-23, 2023, UNESCO will hold a 3-day conference on the topic of Internet for Trust in its Parisian headquarters. The [event](https://www.unesco.org/en/internet-conference) is co-organized by [#RadicalXChange](https://www.radicalxchange.org/) France, [#leplusimportant](https://leplusimportant.org/) and the [#TESaCo programme)(https://www.tesaco.fr/).
+On February 21-23, 2023, UNESCO will hold a 3-day conference on the topic of Internet for Trust in its Parisian headquarters. The [event](https://www.unesco.org/en/internet-conference) is co-organized by [#RadicalXChange](https://www.radicalxchange.org/) France, [#leplusimportant](https://leplusimportant.org/) and the [#TESaCo programme](https://www.tesaco.fr/).
 
 RadicalXChange France will conduct [#speculative design](https://en.wikipedia.org/wiki/Speculative_design) interviews of participants in relationship with three topics:
 - How to organize the access to platform data for regulatory claims or open research purposes?
