@@ -9,12 +9,12 @@
 
   <title>
     
-      404: Page not found &middot; RadicalXChange France
+      RadicalXChange France &middot; 
     
   </title>
 
   
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="/index.html.old">
   
 
   <link rel="stylesheet" href="/public/css/poole.css">
@@ -121,8 +121,18 @@
       </div>
 
       <div class="container content">
-        <h1 id="404-page-not-found">404: Page not found</h1>
-<p>Sorry, we’ve misplaced that URL or it’s pointing to something that doesn’t exist. <a href="">Head back home</a> to try finding it again.</p>
+        <div class="posts">
+  
+</div>
+
+<div class="pagination">
+  
+    <span class="pagination-item older">Précédent</span>
+  
+  
+    <span class="pagination-item newer">Suivant</span>
+  
+</div>
 
       </div>
     </div>
