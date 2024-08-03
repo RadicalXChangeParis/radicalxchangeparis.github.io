@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manifeste
+order: 5
 ---
 
 Bienvenue sur le site de l'association RadicalXChange France.
@@ -24,17 +25,6 @@ L'antenne française est organisée autour de thématiques portées par ses memb
 - Travail: Vers de nouvelles organisations collectives.
 - Economie sociale et solidaire et Refi. Comment faire fructifier les démarches d'ESS grace au Web3?
 
-Dernière mise à jour le 15/12/2022
-
-<div class="logo-table">
-<table>
-    <tr>
-    <td><a href="https://twitter.com/RadxChangeParis" target="_blank"><img src="/public/images/twitter.svg"></a></td>
-    <td><a href="https://discord.gg/cNyeSArW" target="_blank"><img src="/public/images/discord.svg"></a></td>
-    <td><a href="mailto:rxcfrance@gmail.com" target="_blank"><img src="/public/images/mail.png"></a></td>
-    </tr>
-</table>
-</div>
 ----
 
 [//]: <> Nous sommes une association loi 1901 à but non lucratif.
