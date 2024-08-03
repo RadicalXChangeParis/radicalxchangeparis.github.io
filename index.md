@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+order: 1
 ---
 
 RadicalxChange France est la section indépendante française de la Fondation RadicalxChange. Nous sommes un mouvement pour les économies politiques de nouvelle génération. Nous nous engageons à promouvoir la pluralité, l'égalité, la communauté et la décentralisation en améliorant la démocratie, les marchés, l'économie des données, les biens communs et l'identité.

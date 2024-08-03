@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+order: 6
 ---
 
 - [Email](rxcparis@radicalxchange.org)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Manifeste
+order: 5
 ---
 
 Bienvenue sur le site de l'association RadicalXChange France.
