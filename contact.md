@@ -4,7 +4,6 @@ title: Contact
 order: 6
 ---
 
-# Malik
 
 - [Email](rxcparis@radicalxchange.org)
 - [Discord](https://discord.gg/cyek2mkxz)
